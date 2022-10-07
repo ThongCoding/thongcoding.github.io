@@ -1,0 +1,15 @@
+body
+{
+    margin: 0;
+    padding: 10px 20px;
+    background-color: black;
+}
+
+p
+{
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-bottom: 3px;
+    color: white;
+    font-size: 30px; 
+}
